@@ -1,0 +1,120 @@
+	{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "kids learning",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Alphabet",
+                    "slots": [],
+                    "samples": [
+                        "teach childern abcd",
+                        "its time to learn abcd",
+                        "abcd",
+                        "learn abcd",
+                        "alphabet",
+                        "Play abcd",
+                        "Play alphabet"
+                    ]
+                },
+                {
+                    "name": "Numbers",
+                    "slots": [],
+                    "samples": [
+                        "teach me number",
+                        "learn numbers ",
+                        "numbers",
+                        "play numbers"
+                    ]
+                },
+                {
+                    "name": "Rhymes",
+                    "slots": [],
+                    "samples": [
+                        "teach rhymes",
+                        "play rhymes",
+                        "learn rhymes",
+                        "rhymes"
+                    ]
+                },
+                {
+                    "name": "AMAZON.PauseIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.ResumeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Words",
+                    "slots": [],
+                    "samples": [
+                        "teach english words",
+                        "words",
+                        "play words ",
+                        "teach words"
+                    ]
+                },
+                {
+                    "name": "ZeroToTen",
+                    "slots": [],
+                    "samples": [
+                        "zero to ten",
+                        "numbers zero to ten",
+                        "teach zero to ten ",
+                        "play zero to ten "
+                    ]
+                },
+                {
+                    "name": "ElevenToTwenty",
+                    "slots": [],
+                    "samples": [
+                        "eleven to twenty",
+                        "play upto twenty",
+                        "play eleven to twenty",
+                        "teach eleven to twenty "
+                    ]
+                },
+                {
+                    "name": "BabaBlackShip",
+                    "slots": [],
+                    "samples": [
+                        "Baba Black Ship",
+                        "BabaBlackShip",
+                        "play Baba Black Ship",
+                        "teach BabaBlackShip"
+                    ]
+                },
+                {
+                    "name": "TwinkleTwinkleLittleStar",
+                    "slots": [],
+                    "samples": [
+                        "teach Twinkle Twinkle little star",
+                        "play Twinkle Twinkle little star",
+                        "Twinkle Twinkle little star"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
