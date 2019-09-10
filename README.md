@@ -18,7 +18,7 @@ step 11: make necessary changes in index.js file
 step 12: save the changes you have done all that requied to develop a skill.
 step 13: test the skill using test option in alexa developer console.
 step 14: distribution of skill and get certification and analytics.
-
+All the above given are the basics steps for develop a complete skill in alexa
 
 
 
