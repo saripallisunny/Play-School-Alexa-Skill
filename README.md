@@ -1,11 +1,11 @@
 # Play-School-Alexa-Skill
 Alexa Skill For Play School
-Basic Alexa skill to teach alphabets, numbers and rhymes to kids.
-steps to develop alexa skill
+Basic Alexa skill to teach alphabets, numbers and rhymes to kids.                                                                         
+steps to develop alexa skill                                                                                                               
 step 1: Register to Alexa developer console 
-https://developer.amazon.com
-step 2: Add a skill with proper name
-step 3: Give a suitable invocation name to the skill
+https://developer.amazon.com                                                                                                              
+step 2: Add a skill with proper name                                                                                                       
+step 3: Give a suitable invocation name to the skill.                                                                                     
 step 4: Design the alexa skill using proper intents and slots.
 step 5: Conect the skill with AwS labada fuctions using ARN
 step 6: Copy the obtained Json form the skill 
